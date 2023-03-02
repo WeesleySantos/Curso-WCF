@@ -1,0 +1,7 @@
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\bin\Debug\SysMecanica.dll.config
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\bin\Debug\SysMecanica.dll
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\bin\Debug\SysMecanica.pdb
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\obj\Debug\SysMecanica.csproj.AssemblyReference.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\obj\Debug\SysMecanica.csproj.CoreCompileInputs.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\obj\Debug\SysMecanica.dll
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanica\obj\Debug\SysMecanica.pdb

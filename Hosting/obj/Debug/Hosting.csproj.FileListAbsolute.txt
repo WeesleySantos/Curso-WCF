@@ -1,0 +1,12 @@
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\bin\Debug\Hosting.exe.config
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\bin\Debug\Hosting.exe
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\bin\Debug\Hosting.pdb
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\bin\Debug\SysMecanica.dll
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\bin\Debug\SysMecanica.pdb
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\bin\Debug\SysMecanica.dll.config
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\obj\Debug\Hosting.csproj.AssemblyReference.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\obj\Debug\Hosting.csproj.SuggestedBindingRedirects.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\obj\Debug\Hosting.exe
+E:\Meus-Projetos\Curso-WCF\SysMecanica\Hosting\obj\Debug\Hosting.pdb

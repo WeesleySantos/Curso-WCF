@@ -1,0 +1,11 @@
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\bin\Debug\SysMecanicaApp.exe.config
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\bin\Debug\SysMecanicaApp.exe
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\bin\Debug\SysMecanicaApp.pdb
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.csproj.AssemblyReference.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.csproj.SuggestedBindingRedirects.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.Form1.resources
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.Properties.Resources.resources
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.csproj.GenerateResource.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.csproj.CoreCompileInputs.cache
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.exe
+E:\Meus-Projetos\Curso-WCF\SysMecanica\SysMecanicaApp\obj\Debug\SysMecanicaApp.pdb
